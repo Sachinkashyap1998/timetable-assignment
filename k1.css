@@ -1,0 +1,13 @@
+.container,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.container tbody tr:nth-child(odd){
+    background-color: red;
+}
+.container th{
+    background-color: none;
+}
+.container tbody tr:nth-child(even){
+    background-color: lightgray;
+}
