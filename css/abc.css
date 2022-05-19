@@ -1,0 +1,15 @@
+.container{
+    border-style:solid;
+    background-color: red;
+
+}
+/*.container1{
+    background-color:white ;
+}
+#container3{
+    text-align: center;
+} */
+img {
+    border-radius: 50%;
+    margin: auto;    
+  }
