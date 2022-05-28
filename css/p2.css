@@ -1,0 +1,22 @@
+.c1, .c2{
+  color: white;
+  background-color:red;
+  padding-top: 70px;
+  padding-right: 90px;
+  padding-bottom: 70px;
+  padding-left: 120px;
+  border: 1px solid black;
+  
+}
+.red{
+  color: red;
+}
+.red1{
+  color: red;
+}
+.red2{
+  color: red;
+}
+.p1, .p2{
+  margin: 200;
+}

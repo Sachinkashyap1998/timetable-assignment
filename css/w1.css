@@ -1,0 +1,19 @@
+.wi{
+    border-color: lightgrey;
+    border: 2px solid black;
+    float: center;
+    background-color: lightgreen;
+}
+img{
+float: left;
+border: 3px;
+}
+.wik{
+    background-color: lightsalmon;
+    float: left;
+}
+.hi{
+    border-color: lightblue;
+    border: 2px;
+    float: right;
+}

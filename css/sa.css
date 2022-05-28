@@ -1,7 +1,49 @@
-.column{
-    color:black;
-background-color: aqua;
-float: left;
-margin: 20px 40px 80px  ;
-width: 33.33%
+h1{
+    color: white;
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 10px;
+}
+.i1{
+    text-align: center;
+    border: 2px solid aqua;
+    
+}
+.i2{
+    
+    border:2px dashed aqua
+}
+.i3{
+    border:2px dotted aqua
+}
+.i4{
+    border:2px solid aqua;
+}
+.i5{
+    border:2px solid aqua;
+}
+h2{
+    text-align: center;
+}
+.para{
+    
+    background-color: lightseagreen;
+    color: white;
+    border-top:10px solid green;
+    border-left:10px solid magenta;
+    border-right:10px solid crimson;
+    border-bottom:10px solid blue;
+    margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 80px;
+   padding: 20px;
+
+}
+ 
+.cla{
+    border-color: 2px white;
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 10px;
 }
